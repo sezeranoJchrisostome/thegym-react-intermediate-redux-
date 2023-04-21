@@ -24,12 +24,7 @@ export default function TabBar() {
         );
       })}
 
-      {/* <a href="/#" className="tab tab-lifted">Messages</a>
-      <a href="/#" className="indicator tab tab-lifted tab-active">
-        Notifications
-        <span className="indicator-item badge">8</span>
-      </a>
-      <a href="/#" className="tab tab-lifted">Requests</a> */}
+
     </div>
   );
 }
